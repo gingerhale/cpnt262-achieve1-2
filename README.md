@@ -1,8 +1,8 @@
 # CPNT262
 - Achievements Round 1
-- Pluggin Away - Chart.js (option 2)
+- Pluggin Away (option 2) - Chart.js 
 - Haley Dickson
-- GH Pages: 
+- GH Pages: https://gingerhale.github.io/cpnt262-achieve1-2/
 
 ## Atrributes 
 - Traversy Media - "Getting Started With Chart.js" - https://www.youtube.com/watch?v=sE08f4iuOhA&t=619s
